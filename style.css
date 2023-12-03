@@ -309,6 +309,7 @@ span {
 }
 .contact form input[type="submit"]{
     margin-top: 15px;
+    cursor: pointer;
 }
 
 input[type="number"]::-webkit-outer-spin-button,
